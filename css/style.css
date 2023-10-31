@@ -1,0 +1,219 @@
+.nn{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav{
+    display: flex;
+    margin-top: -60px;
+    margin-right: -50px;
+    padding-top: 60px;
+   
+   
+}
+.menu{
+    margin-right: 250px;
+    margin-top: 30px;
+
+}
+
+a{
+    text-decoration: none;
+    margin-left: 125px;
+    font-size: larger;
+}
+a:hover{
+    color: black;
+}
+
+.nav h4{
+    font-weight: 900px;
+    font-size: 30px;
+    font-family: "Lalezar", cursive;
+    margin-top: 25px;
+}
+.nav img{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+
+li:hover{
+    color:#6e0aef;
+    cursor: pointer;
+}
+
+.content{
+    
+    background-color: #f8f7fc;
+    margin: -10px;
+    margin-top: 15px;
+    
+}
+
+.cc{
+    display: flex;
+    
+}
+.con1{
+ margin-top: 40px;
+ margin-right: 90px;
+ width: 700px;
+}
+.content .con1 h4{
+    font-size: 30px;
+    color: #6e0aef;
+} 
+.content .con1 h1{
+    color: rgb(29, 29, 29);
+    font-size: 45px;
+    margin-top: -20px;
+    
+} 
+.content .con1 p{
+    color: rgb(29, 29, 29);
+    font-size: 25px;
+    font-weight: lighter;
+    margin-top: -20px;
+} 
+.purple{
+    color: #6e0aef;
+}
+
+.content .con1 button{
+    padding: 10px 30px;
+    font-size: 25px;
+    color: white;
+    background-color: #6e0aef;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.content .con1 button:hover{
+    background-color: #9757eb;
+
+}
+.con4 .card img{
+    width: 70px;
+    height: 70px;
+}
+
+.con4 .card h3{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.con4 .card p{
+    font-size: 20px;
+    font-weight: lighter;
+    color: rgb(85, 83, 83);
+}
+
+
+.card{
+    
+    padding: 20px;
+    padding-bottom: 15px;
+    margin-left: 50px;
+    text-align: center;
+    width: 220px;
+    height: 220px;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+.con4{
+    display: flex;
+    justify-content: center;
+    
+}
+.con3{
+    margin-right: 90px;
+    margin-top: -15px;
+    font-size: 25px;
+    color: #6e0aef;
+}
+
+.card:hover{
+    border: #6e0aef 2px solid;
+    border-radius: 20px;
+}
+
+.content2 .con5{
+    margin-right: 70px;
+    font-size: 25px;
+    color: #6e0aef;
+}
+
+.con6,
+ .con7{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+    margin-left: 100px;
+    
+
+}
+
+.phone2 h3{
+    margin-right: 20px;
+
+}
+
+.phone2 img:hover{
+    scale: 1.1;
+    cursor: pointer;
+
+}
+
+.phone img:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+.btn2{
+    margin-right: 550px;
+    background-color: #6e0aef;
+    padding: 15px 35px;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 30px;
+
+}
+
+.btn2:hover{
+    background-color: #9757eb;
+}
+.footer{
+    background-color: #f8f7fc;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-top: 150 ;
+    margin-right: -10px;
+    margin-left: -10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.footer p{
+    font-size: 25px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+}
+
+.logoo{
+    margin-left: 10px;
+}
+
+.logoo:hover{
+    color: #6e0aef;
+}
+
